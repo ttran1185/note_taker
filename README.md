@@ -21,7 +21,7 @@
   Store notes
   ## License
   MIT:
-  C:\Users\ttran\Desktop\Homework\note_taker\LICENSE
+  LICENSE
   ## Test
   Live link: https://sheltered-shelf-67177.herokuapp.com/
 
