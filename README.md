@@ -8,7 +8,6 @@
   * [Usage information](#usage)
   * [License](#license)
   * [Test](#test)
-  * [Contributors](#contributors)
   * [Questions](#questions)
   
   ## Title
