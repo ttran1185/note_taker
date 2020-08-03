@@ -45,7 +45,7 @@
   ## Test
   Live link: https://sheltered-shelf-67177.herokuapp.com/
   
-  ![Demo](note_taker/Note-Taker.gif)
+  ![Demo](/Note-Taker.gif)
 
   
   ## Questions
